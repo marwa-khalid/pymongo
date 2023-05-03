@@ -1,0 +1,67 @@
+.mainContainerIP {
+    /* border: 1px solid rgb(212, 211, 211); */
+    margin-top: 10px;
+    /* height: 320px; */
+    overflow-y: hidden;
+    overflow-x: scroll;
+    display:flex;
+}
+.subContainerIP{
+    border: 1px solid rgb(212, 211, 211);
+    /* padding: 10px; */
+    width: 800px;
+    /* margin-left: 15px; */
+    border-radius: 16px;  
+}
+
+.influencerImageIP {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.influencerNameIP {
+    font-size: 10px;
+    height: auto;
+    width: 50px;
+    text-align: left;
+    margin-top: 10px;
+}
+.influencerUserNameIP {
+    font-size: 10px;
+    color: grey;
+    margin-top: -15px;
+    text-align: left;
+}
+.detailsIP {
+    font-size: 10px;
+    color: grey;
+}
+
+.postIP {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+.likesIP, .commentsIP {
+    font-size: 10px;
+    color: grey;
+}
+.nameIP {
+    font-size: 10px;
+    text-align: start;
+}
+.hashtagIP {
+    font-size: 8px;
+    text-align: start;
+    /* margin-top: 5px; */
+}
+.dateIP {
+    font-size: 10px;
+    text-align: start;
+   
+}
+.commentsIP {
+    text-align: right;
+}

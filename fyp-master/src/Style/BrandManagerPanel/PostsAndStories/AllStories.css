@@ -1,0 +1,25 @@
+.storyImageAS {
+    height: 125px;
+    width: 100%;
+    object-fit: cover;
+
+}
+.imageAS {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.subContainerAS {
+    /* height: auto;
+    width: auto; */
+    border: 1px solid rgb(198, 198, 198);
+    /* width: 100%;
+    overflow: hidden; */
+    margin-left: 0;
+}
+.influencerImage {
+    height: 150px;
+    width:100%;
+    object-fit:fill;
+    border: 2px solid;
+}

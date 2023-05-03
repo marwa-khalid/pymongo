@@ -1,0 +1,30 @@
+.mainContainerCD {
+    /* height: 800px; */
+    /* width: 1500px;  */
+    /* overflow-y: scroll;
+    overflow-x: none; */
+}
+.storyImageCD {
+    height: 125px;
+    width: 100%;
+    object-fit: cover;
+
+}
+.imageCD {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.subContainerCD {
+    /* height: auto;
+    width: auto; */
+    border: 1px solid rgb(198, 198, 198);
+    /* width: 100%;
+    overflow: hidden; */
+}
+.influencerImage {
+    height: 150px;
+    width:100%;
+    object-fit:fill;
+    border: 2px solid;
+}

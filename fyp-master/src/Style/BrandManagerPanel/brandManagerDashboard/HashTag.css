@@ -1,0 +1,30 @@
+/* .topContainer {
+    height: auto;
+    border: 1px solid rgb(212, 211, 211);
+    margin-top: 5%;
+} */
+.tablee {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+
+.campaignNameHT,
+.brandLogoHT,
+.startDateHT,
+.endDateHT,
+.hashtagHT,
+.typeHT,
+.totalPostsHT,
+.statusHT
+.detailsHT {
+    font-size: 12px;
+    text-align: start;
+}
+.subContainerHT {
+    /* border: 1px solid blue; */
+    display: flex;
+}
+.statusHT {
+    font-size:12px;
+}

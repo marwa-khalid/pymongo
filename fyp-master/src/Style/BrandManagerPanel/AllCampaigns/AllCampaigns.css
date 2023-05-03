@@ -1,0 +1,71 @@
+.mainContainerAC {
+    align-items: center;
+    justify-content: center;
+}
+.subContainerAC {
+    border: 1px solid rgb(198, 198, 198);
+    margin: 5px;
+    border-radius: 10px;
+}
+.typeAC {
+    font-size: 10px;
+    color: white;
+    background-color: green;
+    margin-top: 5%;
+    border-radius: 16px;
+    padding: 0px 5px 3px 5px;
+    text-align: center;
+}
+.hashtagAC {
+    font-size: 10px;
+    /* color: blue; */
+    margin-top: 5%;
+}
+.imageAC {
+    padding-top: 5px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    /* border-radius: 15%; */
+
+}
+.nameAC {
+    font-size: 15px;
+    margin-top:-15px;
+}
+.influencersAC {
+    font-size: 12px;
+    margin-top: -5px;
+    /* color: blue; */
+}
+.dateAC {
+    font-size: 10px;
+    margin-top: -10px;
+}
+.campaignHeaderAC {
+    font-family: 'Overpass', sans-serif;
+    font-weight: bolder;
+}
+.text-wrap {
+    white-space: normal;
+  }
+
+  @media (max-width: 425px) {
+    .compareInfluencersC {
+        font-size: 18px;  
+        text-align: center;
+    }
+    .budget h6{
+       font-size: 13px; 
+    }
+  }
+  
+
+  .hover-effect {
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .hover-effect:hover {
+    background-color: rgb(212, 211, 211);
+    color: black;
+  }

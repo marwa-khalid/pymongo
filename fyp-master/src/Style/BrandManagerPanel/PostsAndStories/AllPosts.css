@@ -1,0 +1,36 @@
+.storyImageAS {
+    height: 125px;
+    width: 150px;
+    object-fit: cover;
+
+}
+.imageAS {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.subContainerAS {
+    /* height: auto;
+    width: auto; */
+    border: 1px solid rgb(198, 198, 198);
+    margin-left: 5%;
+    /* width: 100%;
+    overflow: hidden; */
+}
+.influencerImage {
+    height: 150px;
+    width:100%;
+    object-fit:fill;
+    border: 2px solid;
+}
+button a {
+color: white;
+text-decoration: none;
+}
+.influencerImageLink {
+    text-decoration: none;
+    outline: none;
+}
+.header1{ 
+    margin-left: 5%;
+}
